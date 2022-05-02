@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 * {
   margin: 0;
   box-sizing: border-box;
+=======
+*{
+  margin: 0;
+>>>>>>> 94c8c745b0030cf56e80972abfe02800ac914de5
 }
 
 :root {
@@ -16,11 +21,18 @@ body {
   text-align: center;
 }
 
+<<<<<<< HEAD
 header {
   width: 37.5rem;
   margin-right: auto;
   margin-left: auto;
   margin-top: 4.1rem;
+=======
+header{
+  width: 37.5rem;
+  margin-right: auto;
+  margin-left: auto;
+>>>>>>> 94c8c745b0030cf56e80972abfe02800ac914de5
 }
 
 h4 {
@@ -42,10 +54,15 @@ p {
   font-weight: 400;
   color: var(--paragraph);
   margin-bottom: 3.2rem;
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 94c8c745b0030cf56e80972abfe02800ac914de5
 }
 
 button {
   border: none;
+<<<<<<< HEAD
   border-radius: 4rem;
 
   color: white;
@@ -65,4 +82,15 @@ button {
   margin-right: auto;
   margin-left: auto;
 
+=======
+  border-radius: 40rem;
+
+  color: white;
+  background-color: var(--primary-color);
+  margin-bottom: 6rem;
+}
+
+img{
+  display: block;
+>>>>>>> 94c8c745b0030cf56e80972abfe02800ac914de5
 }
